@@ -5,4 +5,3 @@ instance/
 data/kaggle/
 data/market/
 .env
-.streamlit/secrets.toml
